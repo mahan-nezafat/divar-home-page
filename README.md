@@ -1,6 +1,6 @@
-# divar-landing-page
+# divar-home-page
 
-divar website static landing page with HTML and CSS
+divar website static home page with HTML and CSS
 
 # description
 
